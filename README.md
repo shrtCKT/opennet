@@ -1,7 +1,7 @@
 # OpenNet
 
 Code for research paper "Learning a Neural Network based Representation for Open Set Recognition" M. Hassen, P. K. Chan
-[https://arxiv.org/submit/2161617](https://arxiv.org/submit/2161617)
+[http://arxiv.org/abs/1802.04365](http://arxiv.org/abs/1802.04365)
 
 ## Requirements
 

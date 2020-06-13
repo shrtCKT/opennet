@@ -5,11 +5,13 @@ Code for research paper "Learning a Neural Network based Representation for Open
 
 If you use this code please cite the paper.
 ```
-@article{hassen2018learning,
-  title={Learning a Neural-network-based Representation for Open Set Recognition},
+@inproceedings{hassen2020learning,
+  title={Learning a neural-network-based representation for open set recognition},
   author={Hassen, Mehadi and Chan, Philip K},
-  journal={arXiv preprint arXiv:1802.04365},
-  year={2018}
+  booktitle={Proceedings of the 2020 SIAM International Conference on Data Mining},
+  pages={154--162},
+  year={2020},
+  organization={SIAM}
 }
 ```
 
